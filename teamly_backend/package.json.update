@@ -1,0 +1,10 @@
+Add this to your scripts section in package.json:
+
+"scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js",
+  "cleanup": "node src/scripts/cleanupOrphanedFiles.js"
+}
+
+Then run cleanup with:
+npm run cleanup

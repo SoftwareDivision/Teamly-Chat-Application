@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641232976666",
+    "project_id": "teamly-503a7",
+    "storage_bucket": "teamly-503a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641232976666:android:4d5d78a5fe661d4d8f0aa3",
+        "android_client_info": {
+          "package_name": "teamly.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bj334j2h6JTmkoRWfhEfP_xEJUJDS0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
